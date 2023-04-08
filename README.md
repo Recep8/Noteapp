@@ -1,13 +1,15 @@
 # Noteapp
 Created with django and react
 
-If you want a result site download package
-
+If you want a result site, 
+-)Download package
+-)Open your compiler (vscode etc.)
+-)Open compiler terminal and write this
+ 
 -cd frontend
-
 -npm run build (that code update new react code and synchronize with your django and react connection)
 
-open new terminal and write this
+-)Open new terminal and write this
 
 -cd mynotes
 
