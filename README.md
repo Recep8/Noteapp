@@ -1,4 +1,5 @@
 # Noteapp
+This application was created by looking at the "https://www.youtube.com/watch?v=tYKRAXIio28" address.
 Created with django and react
 
 If you want a result site, 
